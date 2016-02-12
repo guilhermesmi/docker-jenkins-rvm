@@ -1,0 +1,17 @@
+git-parameter
+bootstraped-multi-test-results-report
+git-changelog
+git
+brakeman
+rubyMetrics
+rake
+rvm
+cucumber-reports
+checkstyle
+cobertura
+ezwall
+greenballs
+ruby
+ruby-runtime
+junit
+violations
