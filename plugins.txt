@@ -15,3 +15,9 @@ ruby
 ruby-runtime
 junit
 violations
+StashBranchParameter
+stashNotifier
+stash-pullrequest-builder
+violation-comments-to-stash
+jenkins-jira-issue-updater
+jira
